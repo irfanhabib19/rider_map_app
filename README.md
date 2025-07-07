@@ -16,9 +16,6 @@ A Flutter app that helps riders view their current location, pickup points, and 
 - URL Launcher
 - Flutter Polyline Points
 
-## 📱 Screenshots (Optional)
-_Add one or two screenshots of your app running._
-
 ## 👤 Developer
 **Irfan Habib**
 # rider_map_app
